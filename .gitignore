@@ -2,6 +2,4 @@ node_modules/
 .idea/
 .DS_Store
 .gitignore.swp
-build/bundle.js
-build/vendors.js
 *.iml
